@@ -17,7 +17,7 @@ npm run build
 
 ## Live Demo
 
-pulseforge-realtime-dashboard.netlify.app
+https://pulseforge-realtime-dashboard.netlify.app/
 
 ## Repository
 
