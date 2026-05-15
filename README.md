@@ -15,6 +15,14 @@ Build verification:
 npm run build
 ```
 
+## Live Demo
+
+pulseforge-realtime-dashboard.netlify.app
+
+## Repository
+
+https://github.com/Chizaram-Julius/pulseforge-realtime-dashboard
+
 ## Tech Stack
 
 - **Framework:** Vue 3
